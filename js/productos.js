@@ -6,5 +6,5 @@ const PRODUCTOS = [
   { id: 2, nombre: 'Taza Unifranz', precio: 40 },
   { id: 3, nombre: 'Polera del taller', precio: 85 },
   { id: 4, nombre: 'Mochila', precio: 150 },
-  { id: 4, nombre: 'cuaderno', precio: 700 }
+  { id: 5, nombre: 'cuaderno', precio: 700 }
 ];
